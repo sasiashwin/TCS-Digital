@@ -1,0 +1,12 @@
+i=2
+j=1
+n=4
+find=8
+while(n<find):
+	i+=2
+	j+=2
+	n+=2
+if(find%2==1):
+	print(i)
+else:
+	print(j)
